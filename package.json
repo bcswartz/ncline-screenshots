@@ -1,0 +1,7 @@
+{
+  "name": "screenshotModule",
+  "version": "0.0.1",
+  "dependencies": {
+    "chokidar": "^1.5.2"
+  }
+}
